@@ -1,5 +1,5 @@
 {
-  "languages": ["en", "it", "es", "de", "fr", "pt", "nl", "ru"],
+  "languages": ["en", "it", "es", "de", "fr", "pt", "nl", "ru", "ar"],
   "translations": {
     "en": {
       "open_in_": "open in ",
@@ -90,6 +90,16 @@
       "_default": " по умолчанию",
       "_as_default": " по умолчанию",
       "copy": "скопировать"
+    },
+    "ar": {
+      "open_in_": "فتح في ",
+      "subject_": "الموضوع ",
+      "body_": "المحتوى ",
+      "call": "اتصال",
+      "open": "فتح",
+      "_default": " افتراضي",
+      "_as_default": " افتراضي",
+      "copy": "نسخ"
     }
   }
 }
